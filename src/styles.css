@@ -1,0 +1,11 @@
+.menuInput {
+    background-color: white;
+    font-size: 1em;
+    width: 2em;
+}
+
+.menuInputError {
+    background-color: red;
+    font-size: 1em;
+    width: 2em;
+}
